@@ -1,0 +1,169 @@
+header > button {
+    border-radius: 30px !important;
+    background-color: #e13507 !important;
+} 
+
+header {
+    margin : 30px;
+}
+
+nav {
+    background-color: #00754D;
+}
+
+nav a {
+font-size: 1.2em;
+font-weight: 300;
+color : white;
+}
+
+nav a:hover {/*  */
+    color : yellow;
+}
+
+.titulo > h1 {
+    color: #005e3e;
+    text-align : center;
+    font-weight : bold;
+}
+
+.card-group {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align : center;
+}
+
+.card-title {
+    color: #005e3e;
+    font-weight : bold;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-body > button {
+    color: #005e3e;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: white;
+    border: 1px solid lightgrey;
+}
+
+.card-body > button:hover {
+    background-color : lightgrey;
+    border: 1px solid lightgrey;
+}
+
+#formulario .input-group button {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #00754d;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#formulario input {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+    text-align: center;
+    color: #005e3e;
+    font-weight: bold;
+}
+
+#formulario > p:first-child {
+    margin-bottom: 100px;
+}
+
+#formulario h2 {
+    color: #333;
+    text-align: center;
+}
+
+#anuncios .col {
+     color: white;
+     text-align: center;
+     vertical-align: middle;
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-top: 50px;
+     padding-bottom: 50px;
+}
+
+#anuncios .col p {
+    margin-top: 30px;
+}
+
+#anuncios .col:first-child {
+    background-color: #218059;
+}
+
+#anuncios .col:last-child {
+    background-color: #17633D;
+}
+
+#ofertas-empleo > button {
+    color: #005e3e;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    text-align: center;
+}
+
+#ofertas-empleo > button:hover{
+    background-color : #00754D;
+    color: white;
+}
+
+#ofertas-empleo {
+    margin-bottom: 200px;
+    margin-top: 100px;
+}
+
+#logo-footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+footer .row:first-child {
+    background-color: #00754D;
+    color: white;
+    padding: 50px;
+}
+
+footer .row:first-child ul {
+    list-style-type:none;
+    padding-left: 0px;
+}
+
+footer .row:first-child p i {
+    font-size: xx-large;
+    margin-right: 10px;
+}
+
+footer .row:last-child ul li{
+    display: inline;  
+    font-size: smaller;  
+    margin-right: 10px;
+}
+
+footer .row:last-child .col-md-4 {
+    padding-left: 50px;
+    font-size: smaller;  
+    text-align: left;
+}
+
+footer .row:last-child .col-md-8 { /*.hover*/
+    padding-right: 50px;
+    text-align: right;
+}
+
+footer .row:last-child {
+    padding-top: 10px;
+}
+    
